@@ -1,0 +1,495 @@
+a,
+button,
+input,
+select,
+h1,
+h2,
+h3,
+h4,
+h5,
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+  text-decoration: none;
+  appearance: none;
+  background: none;
+}
+
+.mac-book-pro-14-1,
+.mac-book-pro-14-1 * {
+  box-sizing: border-box;
+}
+
+.mac-book-pro-14-1 {
+  background: #d9d9d9;
+  width: 1512px;
+  height: 982px;
+  position: relative;
+  overflow: hidden;
+}
+
+.rectangle-4 {
+  background: #e53f3f;
+  border-radius: 43.5px;
+  width: 498px;
+  height: 109px;
+  position: absolute;
+  left: 1191px;
+  top: 802px;
+}
+
+.rectangle-3 {
+  background: #e5cb3f;
+  border-radius: 43.5px;
+  width: 498px;
+  height: 109px;
+  position: absolute;
+  left: 1200px;
+  top: 791px;
+}
+
+._1719943-1 {
+  width: 106px;
+  height: 110px;
+  position: absolute;
+  left: 1208px;
+  top: 781px;
+}
+
+.rectangle-5 {
+  border-radius: 0px;
+  position: absolute;
+  left: 67px;
+  top: 131px;
+  overflow: visible;
+}
+
+.rectangle-2 {
+  border-radius: 0px;
+  position: absolute;
+  left: 77px;
+  top: 125px;
+  overflow: visible;
+}
+
+._24-59 {
+  color: #000000;
+  text-align: left;
+  font: 700 40px "Inter", sans-serif;
+  position: absolute;
+  left: 1335px;
+  top: 820px;
+  width: 264px;
+  height: 51px;
+}
+
+.rectangle-6 {
+  background: #e53f3f;
+  border-radius: 43.5px;
+  width: 498px;
+  height: 109px;
+  position: absolute;
+  left: 1350px;
+  top: 672px;
+}
+
+.rectangle-7 {
+  background: #e5cb3f;
+  border-radius: 43.5px;
+  width: 498px;
+  height: 109px;
+  position: absolute;
+  left: 1356px;
+  top: 663px;
+}
+
+.rectangle-19 {
+  background: #e53f3f;
+  border-radius: 43.5px;
+  width: 258px;
+  height: 41px;
+  position: absolute;
+  left: 87px;
+  top: 383px;
+}
+
+.rectangle-20 {
+  background: #e5cb3f;
+  border-radius: 43.5px;
+  width: 257px;
+  height: 41px;
+  position: absolute;
+  left: 90px;
+  top: 379px;
+}
+
+.rectangle-31 {
+  background: #e53f3f;
+  border-radius: 43.5px;
+  width: 174px;
+  height: 25px;
+  position: absolute;
+  left: 168px;
+  top: 435px;
+}
+
+.rectangle-32 {
+  background: #e5cb3f;
+  border-radius: 43.5px;
+  width: 174px;
+  height: 25px;
+  position: absolute;
+  left: 170px;
+  top: 433px;
+}
+
+.rectangle-35 {
+  background: #e53f3f;
+  border-radius: 43.5px;
+  width: 116px;
+  height: 23px;
+  position: absolute;
+  left: 225px;
+  top: 518px;
+}
+
+.rectangle-36 {
+  background: #e5cb3f;
+  border-radius: 43.5px;
+  width: 116px;
+  height: 23px;
+  position: absolute;
+  left: 226px;
+  top: 515px;
+}
+
+.rectangle-33 {
+  background: #e53f3f;
+  border-radius: 43.5px;
+  width: 174px;
+  height: 25px;
+  position: absolute;
+  left: 168px;
+  top: 472px;
+}
+
+.rectangle-34 {
+  background: #e5cb3f;
+  border-radius: 43.5px;
+  width: 174px;
+  height: 25px;
+  position: absolute;
+  left: 170px;
+  top: 469px;
+}
+
+.rectangle-29 {
+  background: #e53f3f;
+  border-radius: 43.5px;
+  width: 258px;
+  height: 42px;
+  position: absolute;
+  left: 87px;
+  top: 703px;
+}
+
+.rectangle-30 {
+  background: #e5cb3f;
+  border-radius: 43.5px;
+  width: 257px;
+  height: 42px;
+  position: absolute;
+  left: 90px;
+  top: 699px;
+}
+
+.rectangle-27 {
+  background: #e53f3f;
+  border-radius: 43.5px;
+  width: 257px;
+  height: 41px;
+  position: absolute;
+  left: 90px;
+  top: 641px;
+}
+
+.rectangle-28 {
+  background: #e5cb3f;
+  border-radius: 43.5px;
+  width: 258px;
+  height: 41px;
+  position: absolute;
+  left: 92px;
+  top: 637px;
+}
+
+.rectangle-25 {
+  background: #e53f3f;
+  border-radius: 43.5px;
+  width: 258px;
+  height: 41px;
+  position: absolute;
+  left: 87px;
+  top: 571px;
+}
+
+.rectangle-26 {
+  background: #e5cb3f;
+  border-radius: 43.5px;
+  width: 257px;
+  height: 41px;
+  position: absolute;
+  left: 90px;
+  top: 567px;
+}
+
+.rectangle-17 {
+  background: #e53f3f;
+  border-radius: 43.5px;
+  width: 118px;
+  height: 137px;
+  position: absolute;
+  left: 1311px;
+  top: 362px;
+}
+
+.rectangle-18 {
+  background: #e5cb3f;
+  border-radius: 43.5px;
+  width: 118px;
+  height: 138px;
+  position: absolute;
+  left: 1302px;
+  top: 355px;
+}
+
+.k-t-korab-kc-1 {
+  width: 167px;
+  height: 207px;
+  position: absolute;
+  left: 1362px;
+  top: 614px;
+}
+
+._3 {
+  color: #000000;
+  text-align: left;
+  font: 700 40px "Inter", sans-serif;
+  position: absolute;
+  left: 1429px;
+  top: 687px;
+  width: 57px;
+  height: 51px;
+}
+
+.pngwing-1 {
+  width: 855px;
+  height: 703px;
+  position: absolute;
+  left: 442px;
+  top: 160px;
+}
+
+.tarea-en-proceso {
+  color: #000000;
+  text-align: left;
+  font: 700 36px "Inter", sans-serif;
+  position: absolute;
+  left: 692px;
+  top: 184px;
+  width: 434px;
+  height: 51px;
+}
+
+.nombre-tarea {
+  color: #000000;
+  text-align: left;
+  font: 700 20px "Inter", sans-serif;
+  position: absolute;
+  left: 757px;
+  top: 293px;
+  width: 434px;
+  height: 51px;
+}
+
+.nombre-tarea2 {
+  color: #000000;
+  text-align: left;
+  font: 500 15px "Inter", sans-serif;
+  position: absolute;
+  left: 192px;
+  top: 433px;
+  width: 132px;
+  height: 30px;
+}
+
+.nombre-tarea3 {
+  color: #000000;
+  text-align: left;
+  font: 500 10px "Inter", sans-serif;
+  position: absolute;
+  left: 246px;
+  top: 519px;
+  width: 95px;
+  height: 25px;
+}
+
+.nombre-tarea4 {
+  color: #000000;
+  text-align: left;
+  font: 500 15px "Inter", sans-serif;
+  position: absolute;
+  left: 190px;
+  top: 473px;
+  width: 131px;
+  height: 30px;
+}
+
+.nombre-tarea5 {
+  color: #000000;
+  text-align: left;
+  font: 700 20px "Inter", sans-serif;
+  position: absolute;
+  left: 127px;
+  top: 384px;
+  width: 434px;
+  height: 51px;
+}
+
+.nombre-tarea6 {
+  color: #000000;
+  text-align: left;
+  font: 700 20px "Inter", sans-serif;
+  position: absolute;
+  left: 127px;
+  top: 707px;
+  width: 434px;
+  height: 51px;
+}
+
+.nombre-tarea7 {
+  color: #000000;
+  text-align: left;
+  font: 700 20px "Inter", sans-serif;
+  position: absolute;
+  left: 127px;
+  top: 638px;
+  width: 434px;
+  height: 51px;
+}
+
+.nombre-tarea8 {
+  color: #000000;
+  text-align: left;
+  font: 700 20px "Inter", sans-serif;
+  position: absolute;
+  left: 127px;
+  top: 572px;
+  width: 434px;
+  height: 51px;
+}
+
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco-laboris-nisi-ut-aliquip-ex-ea-commodo-consequat-duis-aute-irure-dolor-in-reprehenderit-in-voluptate-velit-esse-cillum-dolore-eu-fugiat-nulla-pariatur-excepteur-sint-occaecat-cupidatat-non-proident-sunt-in-culpa-qui-officia-deserunt-mollit-anim-id-est-laborum {
+  color: #000000;
+  text-align: left;
+  font: 500 20px "Inter", sans-serif;
+  position: absolute;
+  left: 558px;
+  top: 379px;
+  width: 667px;
+  height: 308px;
+}
+
+._6194029-1 {
+  width: 213px;
+  height: 211px;
+  position: absolute;
+  left: 132px;
+  top: 133px;
+}
+
+._1064771-1 {
+  width: 144px;
+  height: 144px;
+  position: absolute;
+  left: 1290px;
+  top: 316px;
+}
+
+.done {
+  color: #000000;
+  text-align: left;
+  font: 700 20px "Inter", sans-serif;
+  position: absolute;
+  left: 1325px;
+  top: 460px;
+  width: 264px;
+  height: 52px;
+}
+
+._6459980-1 {
+  width: 28px;
+  height: 29px;
+  position: absolute;
+  left: 327px;
+  top: 505px;
+}
+
+._6459980-2 {
+  width: 27px;
+  height: 28px;
+  position: absolute;
+  left: 329px;
+  top: 422px;
+}
+
+._1719943-5 {
+  width: 27px;
+  height: 34px;
+  position: absolute;
+  left: 330px;
+  top: 455px;
+}
+
+.div-text-card {
+  /* margin: auto; */
+  margin-top: 15px;
+  margin-left: 0px;
+  /*background-color: rgb(214, 166, 166);*/
+  background-color: #72C2E9;
+  width: 90%;
+  border-radius: 10px;
+  transition: all 0.4s;
+}
+
+.div-text-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 2px 12px 16px rgba(0, 0, 0, 0.2);
+}
+
+.div-text-cardBackground {
+  /* margin: auto; */
+  margin-top: 15px;
+  /* margin-right: 30px; */
+  /*background-color: rgb(214, 166, 166);*/
+  background-color: #FC5D3D;
+  width: 90%;
+  border-radius: 10px;
+  transition: all 0.4s;
+}
+
+.div-text-cardBackground:hover {
+  transform: translateY(-5px);
+  transform:translateX(-5px);
+  box-shadow: 2px 12px 16px rgba(0, 0, 0, 0.562);
+}
+.img-1{
+  display: block;
+  margin: auto;
+  margin-top: 15px;
+  justify-content: center;
+  width: 70%;
+  border-radius: 60%;
+  transition:  all 0.4s;
+}

@@ -17,7 +17,8 @@ import { SidebarComponent } from './components/sidebar/sidebar.component';
   ],
   exports: [
     HomePageComponent,
-    AboutPageComponent
+    AboutPageComponent,
+    SidebarComponent
   ]
 })
 export class SharedModule { }
