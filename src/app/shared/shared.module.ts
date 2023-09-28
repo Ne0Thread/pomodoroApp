@@ -5,6 +5,14 @@ import { RouterLink, RouterModule } from '@angular/router';
 import { LogInComponent } from './pages/log-in/log-in.component';
 import { TableWorkPlaceComponent } from './pages/table-work-place/table-work-place.component';
 import { HomePageComponent } from './pages/home-page/home-page.component';
+import { GrafTortaComponent } from './components/graf-torta/graf-torta.component';
+import { NgChartsModule} from 'ng2-charts';
+import { RadarGrafComponent } from './components/radar-graf/radar-graf.component';
+import { LineGrafComponent } from './components/line-graf/line-graf.component';
+
+
+
+
 
 
 
@@ -13,17 +21,23 @@ import { HomePageComponent } from './pages/home-page/home-page.component';
     SidebarComponent,
     LogInComponent,
     TableWorkPlaceComponent,
-    HomePageComponent
+    HomePageComponent,
+    GrafTortaComponent,
+    RadarGrafComponent,
+    LineGrafComponent
   ],
   imports: [
     CommonModule,
-    RouterModule
+    RouterModule,
+    NgChartsModule
   ],
   exports: [
 
     SidebarComponent,
     LogInComponent,
-    TableWorkPlaceComponent
+    TableWorkPlaceComponent,
+    GrafTortaComponent,
+    NgChartsModule
   ]
 })
 export class SharedModule { }
