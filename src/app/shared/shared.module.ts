@@ -1,24 +1,29 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { HomePageComponent } from './pages/home-page/home-page.component';
-import { AboutPageComponent } from './pages/about-page/about-page.component';
 import { SidebarComponent } from './components/sidebar/sidebar.component';
+import { RouterLink, RouterModule } from '@angular/router';
+import { LogInComponent } from './pages/log-in/log-in.component';
+import { TableWorkPlaceComponent } from './pages/table-work-place/table-work-place.component';
+import { HomePageComponent } from './pages/home-page/home-page.component';
 
 
 
 @NgModule({
   declarations: [
-    HomePageComponent,
-    AboutPageComponent,
-    SidebarComponent
+    SidebarComponent,
+    LogInComponent,
+    TableWorkPlaceComponent,
+    HomePageComponent
   ],
   imports: [
-    CommonModule
+    CommonModule,
+    RouterModule
   ],
   exports: [
-    HomePageComponent,
-    AboutPageComponent,
-    SidebarComponent
+
+    SidebarComponent,
+    LogInComponent,
+    TableWorkPlaceComponent
   ]
 })
 export class SharedModule { }

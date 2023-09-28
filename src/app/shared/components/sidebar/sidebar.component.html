@@ -1,12 +1,24 @@
 <div class="div-text-card">
   <h2>Pomodoro</h2>
-  <img class="img-1" src="./../../../../assets/_6194029-1.png" alt="" style="justify-content: center;">
+  <img class="img-1" src="./../../../../assets/_6194029-1.png" alt="" >
 <hr>
 <ul class="list-group">
-  <li class="list-group-item">
-    Home
+  <li routerLink="home"
+  class="list-group-item"
+  routerLinkActive="active"
+  [routerLinkActiveOptions]="{exact:true}">
+    Estadisticas
   </li>
-  <li class="list-group-item">
+  <li routerLink="login"
+  class="list-group-item"
+  routerLinkActive="active"
+  [routerLinkActiveOptions]="{exact:true}">
+    Login
+  </li>
+  <li routerLink="table"
+  class="list-group-item"
+  routerLinkActive="active"
+  [routerLinkActiveOptions]="{exact:true}">
     Mi Tablero
   </li>
   <li class="list-group-item">
